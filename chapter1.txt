@@ -1,0 +1,5 @@
+what is gitignore ?
+
+if you don't want to upload private files than put your file
+name into .gitignore file so it will not commit the file 
+which was mentioned.
